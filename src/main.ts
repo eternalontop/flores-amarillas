@@ -214,7 +214,7 @@ function renderSlide3(name: string): void {
             <a class="social-link" href="https://discord.gg/urdll" target="_blank" rel="noopener noreferrer" aria-label="Discord">
               <img src="https://cdn.simpleicons.org/discord" alt="Discord" loading="lazy" />
             </a>
-            <a class="social-link" href="https://github.com/" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <a class="social-link" href="https://github.com/eternalontop" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <img src="https://cdn.simpleicons.org/github" alt="GitHub" loading="lazy" />
             </a>
           </div>

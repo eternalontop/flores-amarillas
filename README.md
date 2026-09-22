@@ -1,6 +1,6 @@
 # 🌼 Flores Amarillas
 
-hice esto con la intencion de demostrar cariño de una forma virtual y para aquellos que no pueden demostrarlo fisicamente.
+hice esto con la intencion de demostrar cariño de una forma virtual y para aquellos que no pueden demostrarlo fisicamente. with love to nt
 
 ## 🚀 Instalación
 
